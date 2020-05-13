@@ -1,0 +1,225 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #19a8ce;
+	height: 750px;
+	width: 100%;
+}
+* {
+	box-sizing: border-box;
+}
+
+.header {
+	width: 100%;
+	display: flex;
+	background-image: url(stripe-up.png);
+	background-repeat: no-repeat;
+	background-size: 130% 100%;
+	justify-content: space-between;
+	margin-left: -5px;
+	margin-top: -20px;
+	height: 250px;
+	
+}
+.lemon {
+	width: 200px;
+	height: 70px;
+	margin-top: 50px;
+	margin-left: 80px;
+	background-image: url(Lemon-Tree-logo.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	
+
+} 
+.menu {
+	width: 440px;
+	height: 15px;
+	margin-top: 80px;
+	margin-right: 250px;
+	margin-left: 350px;
+	background-image: url(menu.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	
+}
+h1 {
+	font-size: 35px;
+	font-family: sans-serif;
+	text-align: center;
+	color: white;
+
+}
+.center {
+	width: 600px;
+	height: 250px;
+	margin: 0 auto;
+}
+button {
+	display: block;
+	width: 150px;
+	height: 40px;
+	color: white;
+	background-color: #bee926;
+	border: 1px solid #bee926;
+	border-radius: 20px;
+	margin: 40px auto 5px auto;
+}
+
+
+.down {
+	background-image: url(stripe-down.png);
+	width: 100%;
+	height: 150px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	margin-top: 80px;
+	
+}
+.telfoto {
+	background-image: url(image-tel-and-limes.png);
+	width: 1100px;
+	height: 280px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	position: absolute;
+	bottom: -25px;
+	left: 150px;
+
+}
+
+section {
+	height: 750px;
+	background-color: white;
+	display: flex;
+}
+
+.telephone {
+	height: 550px;
+	width: 370px;
+	background-image: url(image1-tel.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-left: 200px;
+	margin-top: 100px;
+
+}
+
+.righttelephone {
+	width: 550px;
+	height: 300px;
+	font-family: sans-serif;
+	margin-top: 200px;
+	margin-left: 100px;
+
+}
+
+
+.threerounds {
+	width: 500px;
+	height: 150px;
+	background-image: url(icon.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-top: 50px;
+
+}
+
+
+figure {
+	height: 650px;
+	background-color: #54376d;
+	margin: 0;
+}
+.page3 {
+	width: 1000px;
+	height: 600px;
+	text-align: center;
+	margin: auto;
+
+}
+.fourfoto {
+	width: 900px;
+	height: 300px;
+	background-image: url(images.png);
+	background-repeat: no-repeat;
+	margin-top: 80px;
+}
+.textfoto {
+	width: 900px;
+	height: 200px;
+	background-image: url(text.png);
+	background-repeat: no-repeat;
+}
+.page3 > h2 {
+	color: white;
+	font-family: sans-serif;
+}
+.page4 {
+	height: 700px;
+	width: 100%;
+	background-image: url(bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 250px;
+}
+.tl {
+	width: 500px;
+	height: 400px;
+	background-image: url(text111.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	position: relative;
+	left: 30px;
+	margin: auto;
+
+}
+.page5 {
+	height: 500px;
+	background-color: #1fb4df;
+	padding-top: 100px;
+
+
+}
+
+.letter {
+	width: 750px;
+	height: 400px;
+	display: flex;
+	flex-direction: column;
+	background-image: url(letter.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding-top: 80px;
+	margin: auto;
+
+
+}
+.contact {
+	width: 250px;
+	height: 50px;
+	color: white;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 30px;
+	margin: auto;
+
+}
+.form {
+	width: 550px;
+	height: 400px;
+	background-image: url(form.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	padding-top: 50px;
+	margin: auto;
+
+}
+footer {
+	width: 100%;
+	height: 80px;
+	background-image: url(footer.png);
+	
+}
+
